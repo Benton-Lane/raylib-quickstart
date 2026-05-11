@@ -304,6 +304,7 @@
     <ClInclude Include="include\resource_dir.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="src\main.c" />
   </ItemGroup>
   <ItemGroup>
